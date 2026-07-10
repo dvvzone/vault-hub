@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "developerBranding": "dvzone.pages.dev",
   "announcements": {
-    "en": "https://dvzone.pages.dev/announcements/en.md",
-    "ar": "https://dvzone.pages.dev/announcements/ar.md",
-    "es": "https://dvzone.pages.dev/announcements/es.md",
-    "fr": "https://dvzone.pages.dev/announcements/fr.md"
+    "en": "https://raw.githubusercontent.com/dvvzone/vault-hub/main/announcements/en.md",
+    "ar": "https://raw.githubusercontent.com/dvvzone/vault-hub/main/announcements/ar.md",
+    "es": "https://raw.githubusercontent.com/dvvzone/vault-hub/main/announcements/es.md",
+    "fr": "https://raw.githubusercontent.com/dvvzone/vault-hub/main/announcements/fr.md"
   }
 }
