@@ -1,9 +1,7 @@
 # 🎉 Welcome to SmartPOS
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dvvzone/vault-hub/main/announcements/assets/smartpos-banner.png" width="700" alt="SmartPOS Banner">
-</p>
 
+![SmartPOS Banner](https://raw.githubusercontent.com/dvvzone/vault-hub/main/announcements/assets/smartpos-banner.png)
 ---
 
 ## 👋 Welcome!
