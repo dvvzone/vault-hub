@@ -1,7 +1,7 @@
 # 🎉 Welcome to SmartPOS
 
-
 ![SmartPOS Banner](https://raw.githubusercontent.com/dvvzone/vault-hub/main/announcements/assets/smartpos-banner.png){width=700 radius=20 align=center}
+
 ---
 
 ## 👋 Welcome!
@@ -26,6 +26,14 @@ Check back regularly to stay up to date with everything happening in SmartPOS.
 
 ---
 
+## 🌐 Learn More
+
+Visit our official website to learn more about SmartPOS, our products, documentation, and the latest updates.
+
+👉 **Website:** [dvzone.pages.dev](https://dvzone.pages.dev/)
+
+---
+
 ## ❤️ Thank You
 
 Your support and feedback help us make SmartPOS better every day.
@@ -36,10 +44,6 @@ Thank you for trusting **SmartPOS**.
 
 ---
 
-<p align="center">
-
 ### 🚀 SmartPOS Team
 
 *Building better tools for your business.*
-
-</p>
